@@ -1,3 +1,6 @@
 The CNN file requires a training data set and test data set to run properly. i do have these available and if you want them you will need to request for them as they cannot be uploaded here.
 every file required for the codes to run is available and should be requested since it cannot be uploaded here
 the CNN model is one that  i built to be able to tell the difference between an emergency vehicle(ambulane, police cars etc) and a non emergency vehicle(private vehicles)
+The natural language processing file teaches the computer natural language and makes it understand and breaks down the english language
+the sentiment analysis teaches the computer to read emotion in text
+the recommendation analysis, recommends similar movies to the user based on their previously watched movies
